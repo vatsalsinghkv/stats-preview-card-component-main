@@ -124,7 +124,8 @@ footer {
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%); 
+    color: var(--soft-violet);
+    font-weight: bold;
 }
 
 /* For Mobiles */
@@ -195,15 +196,15 @@ footer {
     
 }
 
-@media screen and (max-width: 769px){
+/* @media screen and (max-width: 769px){
     html {
         font-size: 12px;
     }
-}
+} */
 
 @media screen and (max-width: 481px){
     html {
-        font-size: 9px;
+        font-size: 11px;
     }
 }
 
