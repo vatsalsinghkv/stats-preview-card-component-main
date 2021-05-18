@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-and-css-using-flexbox-and-picture-tag-kr7nBaFLQ)
-- Live Site URL: [Add live site URL here](https://vatsalsinghkv.github.io/stats-preview-card-component-main)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-and-css-using-flexbox-and-picture-tag-kr7nBaFLQ](https://www.frontendmentor.io/solutions/html-and-css-using-flexbox-and-picture-tag-kr7nBaFLQ)
+- Live Site URL: [https://vatsalsinghkv.github.io/stats-preview-card-component-main](https://vatsalsinghkv.github.io/stats-preview-card-component-main)
 
 ## My process
 
@@ -99,5 +99,5 @@ I will work on concepts which I am really not good at but I really find them use
 
 - Github - [@vatsalsinghkv](https://www.github.com/vatsalsinghkv)
 - Frontend Mentor - [@vatsalsinghkv](https://www.frontendmentor.io/profile/vatsalsinghkv)
-- Twitter - [@yourusername](https://www.twitter.com/vatsalsinghlv)
+- Twitter - [@vatsalsinghkv](https://www.twitter.com/vatsalsinghlv)
 - Instagram - [@vatsalsinghkv](https://www.instagram.com/vatsalsinghkv)
