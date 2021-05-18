@@ -53,6 +53,10 @@ p {
     color: var(--white-para);
 }
 
+img {
+    display: block;
+}
+
 /* MAIN */
 
 #insights {
@@ -76,7 +80,7 @@ p {
 }
 
 .text-box p{
-    width: 80%;
+    width: 85%;
     margin: 2rem 0;
 }
 
